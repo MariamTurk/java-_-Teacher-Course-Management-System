@@ -2,15 +2,6 @@
 
 This project provides a simple Java-based application to manage teacher profiles, their course assignments, and salary calculations. The system allows the user to interactively enter data about teachers and their courses, compute extra payments based on course levels, and perform basic administrative tasks such as viewing teacher info and modifying salaries.
 
-
-## 📦 Project Structure
-
-```java
-ass2/
-├── Course.java         // Class to represent a course with name and ID
-├── Teacher.java        // Class to represent a teacher with salary and courses
-└── Testclass.java      // Main class to interact with the user and execute tasks
-
 ## 🧠 Features
 Add multiple teachers and their courses
 
@@ -41,5 +32,16 @@ Enter your choice of tasks (1-5):
 3 - Change basic salary for a teacher
 4 - Display sum of total salaries for all teachers
 5 - Exit
+
+
+
+
+## 📦 Project Structure
+
+```java
+ass2/
+├── Course.java         // Class to represent a course with name and ID
+├── Teacher.java        // Class to represent a teacher with salary and courses
+└── Testclass.java      // Main class to interact with the user and execute tasks
 
 
